@@ -11,7 +11,8 @@ import SwiftUI
 struct pia13iosv1monApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            DolayoutView()
         }
     }
 }
